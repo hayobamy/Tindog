@@ -1,7 +1,7 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+About
+A responsive landing page for a dog care service built with HTML, CSS and Bootstrap
 
 ## SVGs:
 
